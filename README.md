@@ -1,6 +1,6 @@
 # Lars van Rhijn
 
-(5G) Cybersecurity Specialist • Developer  
+Security Manager @ [Alliander](https://alliander.com/)  
 📍 Nijmegen, The Netherlands  
 📧 lars [at] larsvanrhijn.nl
 
@@ -12,13 +12,7 @@
 
 ## 👋 About Me
 
-I’m the **Lead Developer at [Montsecure](https://montsecure.com/)**, working on making **5G networks safer** through automated security testing.  
-Our software simulates attacks on 5G core network functions to detect vulnerabilities and supports network certification under the **BSI NESAS** scheme.
-
-My work involves:
-- Expanding and improving security testing software.
-- Researching and developing new **3GPP SCAS tests**.
-- Implementing advanced attack simulations for network validation.
+As a **Security Manager at [Alliander](https://alliander.com/)**, I focus on cyber security advisory, security governance, and ISMS implementation. My work includes supporting different parts of the organization with security and compliance guidance, contributing to cyber security policies and standards, and maintaining Information Security Management Systems across multiple departments.
 
 Outside of work, I enjoy:
 - **Fitness & Kickboxing** — Deadlifts are my favorite lift.
